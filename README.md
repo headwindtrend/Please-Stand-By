@@ -12,6 +12,45 @@ It is the thesis of the film.
 Wendy is not afraid of difficulty.  
 She is afraid of **never arriving** — of existing in motion, effort, and endurance without ever being allowed to belong.
 
+And at the end, Wendy returns to light:
+
+> “Where was that tiny speck of light traveling through the universe? … Hoping to get where it belongs?”
+
+The tragedy of [Please Stand By](https://www.youtube.com/watch?v=O9goXtVG-g8) is not that Wendy travels.  
+It is that **arrival is never guaranteed**, no matter how perfectly she follows the rules.
+
+---
+
+# Burden as a social inevitability
+
+On the journey to hand in her script, Wendy encounters an old woman who says:
+
+> “I don’t wanna be anybody’s burden. People have their own lives, and after a while, those lives don’t include you.”
+
+This line does not come from a villain.  
+It comes from experience.
+
+It articulates the unspoken law of modern life:
+
+> **Belonging expires when it costs too much.**
+
+Once this law is accepted, no one needs to choose exile.  
+Exile happens automatically.
+
+---
+
+# The title we never hear spoken
+
+Wendy’s script is titled **The Many and the Few**.
+
+The film never explains it — because it doesn’t have to.
+
+The many are those who fit without explanation.  
+The few are those who must justify their presence.
+
+This is not about autism alone.  
+It is about how societies decide who belongs by default — and who must earn it.
+
 ---
 
 # When home quietly becomes conditional
@@ -29,6 +68,22 @@ This exchange is devastating because it reveals what has already happened.
 The piano is not just an instrument. It is shared history, shared presence, shared time. Audrey does love Wendy — and yet she decided to move on and leave Wendy behind.
 
 This is how tragedy usually begins: not with cruelty, but with **practical decisions that quietly amputate meaning**.
+
+---
+
+# The hidden shift: from love to risk management
+
+After Audrey becomes a mother, Wendy is no longer just Wendy. She becomes a risk variable. A possible future burden. A source of uncertainty that might spill over onto Audrey's child, Ruby.
+
+Importantly, Audrey does not say:
+> "I don't love Wendy."
+
+She thinks:
+> "If I make the wrong choice, Ruby will pay."
+
+That thought — which feels responsible, even virtuous — transforms love into accounting.
+
+From that moment on, Wendy's place in the family is no longer guaranteed. It must be justified.
 
 ---
 
@@ -96,29 +151,11 @@ And the forecast has already hardened into fate.
 
 ---
 
-# Burden as a social inevitability
-
-Later, Wendy encounters an old woman who says:
-
-> “I don’t wanna be anybody’s burden. People have their own lives, and after a while, those lives don’t include you.”
-
-This line does not come from a villain.  
-It comes from experience.
-
-It articulates the unspoken law of modern life:
-
-> **Belonging expires when it costs too much.**
-
-Once this law is accepted, no one needs to choose exile.  
-Exile happens automatically.
-
----
-
 # “But I wanted to show you”
 
 At the end, Audrey says what society recognizes as the correct response:
 
-> “I’m so proud of you.”
+> “I’m so proud of you. You turned in that script all by yourself. You said you wanted to show them... and you did. ”
 
 She praises Wendy’s independence, her execution, her competence.
 
@@ -137,28 +174,71 @@ And Wendy knows this.
 
 ---
 
-# The title we never hear spoken
+# What Wendy actually wanted
 
-Wendy’s script is titled **The Many and the Few**.
+Wendy did not want to win a contest.  
+She did not want to prove competence.  
+She did not want to impress society.
 
-The film never explains it — because it doesn’t have to.
+She wanted her real home back:  
+The place where she was loved **before justification entered the picture**.
 
-The many are those who fit without explanation.  
-The few are those who must justify their presence.
+That love may no longer be recoverable in its original form.  
+Life does change people.  
+Scarcity does alter relationships.
 
-This is not about autism alone.  
-It is about how societies decide who belongs by default — and who must earn it.
+But recognizing why it changed matters.
+
+Because it tells us this:
+> Much of the suffering we accept as inevitable  
+> is not caused by malice, incapacity, or fate —  
+> but by frames we stop questioning.
 
 ---
 
-# Light, again
+# The tragedy that no one chose
 
-At the end, Wendy returns to light:
+What makes this story painful is not that someone makes a cruel decision. It is that **tragedy emerges automatically** from assumptions no one stops to question.
 
-> “Where was that tiny speck of light traveling through the universe? … Hoping to get where it belongs?”
+One assumption in particular:
+> Love that costs too much is irresponsible.
 
-The tragedy of [Please Stand By](https://www.youtube.com/watch?v=O9goXtVG-g8) is not that Wendy travels.  
-It is that **arrival is never guaranteed**, no matter how perfectly she follows the rules.
+Once this is accepted:
+- Wendy becomes a liability
+- Audrey becomes a manager
+- Ruby becomes a justification
+- And exile starts to feel inevitable
+
+This is not autism's fault.  
+It is not Audrey's moral failure.  
+It is not Wendy's lack of independence.
+
+It is the result of **anticipatory fear treated as fact**.
+
+Audrey does not know that Wendy will harm Ruby's prosperity.  
+She imagines it.  
+And in a society that punishes dependency harshly, imagination is enough.
+
+---
+
+# The “what if” we rarely allow ourselves
+
+What if Audrey did not experience this as a dilemma?
+
+Not because the costs disappear — but because she does not assume they must be borne alone.
+
+What if:
+- Care were visible as shared, not isolating
+- Dependency were not moralized as failure
+- Children were allowed to witness care without it being framed as damage
+- Responsibility included uncertainty, not just optimization
+
+In that world, Wendy does not need to prove her right to exist.  
+She does not need to earn love back through performance.  
+The piano — a symbol of shared history — does not need to be thrown away.
+
+The tragedy does not become impossible.
+But it stops being automatic.
 
 ---
 
@@ -179,14 +259,32 @@ The suffering emerges from:
 This is why the tragedy feels inevitable — and why it isn’t.
 
 If Audrey had blamed the world slightly more, and herself slightly less, Wendy would not need to prove she deserves to come home.
+> **Why blaming the world matters**
+> 
+> Audrey blames herself.  
+> That feels mature.  
+> Blaming the world feels indulgent.
+> 
+> But self-blame is precisely how structural cruelty becomes invisible.
+> 
+> When individuals internalize systemic pressure, they call it responsibility — and then enforce it on the people they love.
+> 
+> Blaming the world, even a little, is not avoidance.  
+> It is **moral clarity**.
+> 
+> It is what allows love to remain love, instead of turning into risk management under scarcity.
 
 We may not be able to eliminate tragedy.  
 But we can interrupt its automation.
 
-We can question when love quietly turns into proof.  
-We can refuse to treat care as contamination.  
-We can pause before calling exile responsibility.
+We can:
+- Pause before turning fear into destiny  
+- Question when love becomes conditional "for safety"  
+- Refuse to equate dependency with moral failure  
+- Share responsibility instead of privatizing guilt
 
-Sometimes, that pause is enough.
+Doing so does not make us heroes.  
+It makes us human.
 
-Sometimes, it can keep a light from traveling forever without arrival.
+Sometimes, that is enough to prevent "someone has to prove they deserve to belong".  
+And sometimes, it can keep a light from traveling forever without arrival.
